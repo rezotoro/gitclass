@@ -1,1 +1,3 @@
 # gitclass
+
+ini percubaan
